@@ -8,3 +8,6 @@
 # Executables
 *.apk
 
+# Wiki
+wiki/*
+
